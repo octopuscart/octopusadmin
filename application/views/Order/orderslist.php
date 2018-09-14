@@ -76,7 +76,7 @@ $this->load->view('layout/layoutTop');
                                                             </h6>
                                                             <span style="border-bottom: 1px solid #c5c5c5;">Email:<?php echo $value->email; ?></span>
                                                             <br/>
-                                                            <p style="font-size:12px"><?php echo $value->address; ?> <?php echo $value->city; ?> <?php echo $value->state; ?><p>
+                                                            <p style="font-size:12px"><?php echo $value->address1; ?> <?php echo $value->city; ?> <?php echo $value->state; ?><p>
                                                         </div>
                                                         <div class="col-md-3">
                                                             <span >

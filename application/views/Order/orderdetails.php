@@ -144,8 +144,9 @@ $this->load->view('layout/layoutTop');
                 To
                 <address>
                     <strong><?php echo $ordersdetails['order_data']->name; ?></strong><br>
-                    <?php echo $ordersdetails['order_data']->address; ?><br/>
-                    <?php echo $ordersdetails['order_data']->state; ?>  <?php echo $ordersdetails['order_data']->city; ?> <?php echo $ordersdetails['order_data']->pincode; ?><br/>
+                    <?php echo $ordersdetails['order_data']->address1; ?><br/>
+                    <?php echo $ordersdetails['order_data']->address2; ?><br/>
+                    <?php echo $ordersdetails['order_data']->state; ?>  <?php echo $ordersdetails['order_data']->city; ?> <?php echo $ordersdetails['order_data']->zipcode; ?><br/>
                     <i class="fa fa-phone"></i> <?php echo $ordersdetails['order_data']->contact_no; ?><br>
                     <i class="fa fa-envelope"></i> <?php echo $ordersdetails['order_data']->email; ?>
                 </address>
