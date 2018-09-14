@@ -3,9 +3,9 @@
 <div style="clear:both"></div>
 <footer class="main-footer">
     <div class="pull-right hidden-xs">
-      <b>Version</b> 2.4.0
+      <b>Version</b> 1.0.0
     </div>
-    <strong>Copyright &copy; <a href="http://classApartStore.com/">Class Apart Store</a>.</strong> All rights
+    <strong>Copyright &copy; <a href="http://octopuscart.com/">Octopuscart</a>.</strong> All rights
     reserved.
   </footer>
   <!-- Control Sidebar -->
